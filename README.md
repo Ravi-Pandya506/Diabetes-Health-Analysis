@@ -42,6 +42,6 @@ Columns: 22
 
 ## Project Files
 - Notebook: Diabetes_Project.ipynb
-- HTML Report: Diabetes_Project.html
+- PDF Report: Diabetes_Project.pdf
 
 
